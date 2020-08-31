@@ -1,0 +1,351 @@
+[{
+    "name": "Transport",
+    "contractor": "Bain",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Prison Nightmare",
+    "contractor": "Event",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Green Bridge",
+    "contractor": "Bain",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Nightclub",
+    "contractor": "Vlad",
+    "stealth": "Optional",
+    "bonus": "10%"
+}, {
+    "name": "Rats",
+    "contractor": "Hector",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Breakin' Feds",
+    "contractor": "Locke",
+    "stealth": "Forced",
+    "bonus": "10%"
+}, {
+    "name": "The Yacht Heist",
+    "contractor": "The Continental",
+    "stealth": "Forced",
+    "bonus": "10%"
+}, {
+    "name": "Heat Street",
+    "contractor": "Bain",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Diamond Store",
+    "contractor": "Bain",
+    "stealth": "Optional",
+    "bonus": "5%"
+}, {
+    "name": "Golden Grin Casino",
+    "contractor": "The Dentist",
+    "stealth": "Optional",
+    "bonus": "10%"
+}, {
+    "name": "Transport: Train Heist",
+    "contractor": "Bain",
+    "stealth": "Optional",
+    "bonus": "10%"
+}, {
+    "name": "Hotline Miami",
+    "contractor": "The Dentist",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Shadow Raid",
+    "contractor": "Bain",
+    "stealth": "Forced",
+    "bonus": "5%"
+}, {
+    "name": "The Big Bank",
+    "contractor": "The Dentist",
+    "stealth": "Optional",
+    "bonus": "15%"
+}, {
+    "name": "The Diamond",
+    "contractor": "The Dentist",
+    "stealth": "Optional",
+    "bonus": "15%"
+}, {
+    "name": "Jewelry Store",
+    "contractor": "Bain",
+    "stealth": "Optional",
+    "bonus": "5%"
+}, {
+    "name": "Shacklethorne Auction",
+    "contractor": "Locke",
+    "stealth": "Optional",
+    "bonus": "10%"
+}, {
+    "name": "Santa's Workshop",
+    "contractor": "Vlad",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "The Bomb: Dockyard",
+    "contractor": "The Butcher",
+    "stealth": "Optional",
+    "bonus": "15%"
+}, {
+    "name": "Counterfeit",
+    "contractor": "Bain",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Alaskan Deal",
+    "contractor": "Locke",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Hoxton Breakout",
+    "contractor": "The Dentist",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Mallcrasher",
+    "contractor": "Vlad",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Art Gallery",
+    "contractor": "Bain",
+    "stealth": "Optional",
+    "bonus": "8%"
+}, {
+    "name": "No Mercy",
+    "contractor": "Bain",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Holdout",
+    "contractor": "Locke",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "The Alesso Heist",
+    "contractor": "Bain",
+    "stealth": "Optional",
+    "bonus": "10%"
+}, {
+    "name": "Framing Frame",
+    "contractor": "The Elephant",
+    "stealth": "Optional",
+    "bonus": "3-25%"
+}, {
+    "name": "Murky Station",
+    "contractor": "Jimmy",
+    "stealth": "Forced",
+    "bonus": "15%"
+}, {
+    "name": "Cook Off",
+    "contractor": "Bain",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Birth of Sky",
+    "contractor": "Locke",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Brooklyn 10-10",
+    "contractor": "The Continental",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Aftershock",
+    "contractor": "Vlad",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Diamond Heist",
+    "contractor": "Bain",
+    "stealth": "Optional",
+    "bonus": "10%"
+}, {
+    "name": "Panic Room",
+    "contractor": "Bain",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Four Stores",
+    "contractor": "Vlad",
+    "stealth": "Optional",
+    "bonus": "5%"
+}, {
+    "name": "Reservoir Dogs Heist",
+    "contractor": "Bain",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Ukrainian Job",
+    "contractor": "Vlad",
+    "stealth": "Optional",
+    "bonus": "5%"
+}, {
+    "name": "Henry's Rock",
+    "contractor": "Locke",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Meltdown",
+    "contractor": "Vlad",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "First World Bank",
+    "contractor": "Bain",
+    "stealth": "Optional",
+    "bonus": "15%"
+}, {
+    "name": "Election Day",
+    "contractor": "The Elephant",
+    "stealth": "Optional",
+    "bonus": "5-20%"
+}, {
+    "name": "Stealing Xmas",
+    "contractor": "Vlad",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Car Shop",
+    "contractor": "Bain",
+    "stealth": "Forced",
+    "bonus": "10%"
+}, {
+    "name": "Undercover",
+    "contractor": "Bain",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Lab Rats",
+    "contractor": "Event",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Cursed Kill Room",
+    "contractor": "Event",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Goat Simulator",
+    "contractor": "Vlad",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "San Martín Bank",
+    "contractor": "Vlad",
+    "stealth": "Optional",
+    "bonus": "15%"
+}, {
+    "name": "The Biker Heist",
+    "contractor": "The Elephant",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Brooklyn Bank",
+    "contractor": "Locke",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "GO Bank",
+    "contractor": "Bain",
+    "stealth": "Optional",
+    "bonus": "10%"
+}, {
+    "name": "Hell's Island",
+    "contractor": "Locke",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Big Oil",
+    "contractor": "The Elephant",
+    "stealth": "Optional",
+    "bonus": "15%"
+}, {
+    "name": "Boiling Point",
+    "contractor": "Jimmy",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Watchdogs",
+    "contractor": "Hector",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Bank Heist",
+    "contractor": "Bain",
+    "stealth": "Optional",
+    "bonus": "10%"
+}, {
+    "name": "Border Crystals",
+    "contractor": "Locke",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "The Bomb: Forest",
+    "contractor": "The Butcher",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Firestarter",
+    "contractor": "Hector",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Hoxton Revenge",
+    "contractor": "The Dentist",
+    "stealth": "Optional",
+    "bonus": "10%"
+}, {
+    "name": "The White House",
+    "contractor": "Locke",
+    "stealth": "Optional",
+    "bonus": "10%"
+}, {
+    "name": "Breakfast in Tijuana",
+    "contractor": "Locke",
+    "stealth": "Optional",
+    "bonus": "15%"
+}, {
+    "name": "Safe House Nightmare",
+    "contractor": "Event",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "White Xmas",
+    "contractor": "Vlad",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Border Crossing",
+    "contractor": "Locke",
+    "stealth": "Optional",
+    "bonus": "15%"
+}, {
+    "name": "Slaughterhouse",
+    "contractor": "Bain",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Safe House Raid",
+    "contractor": "Others",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Beneath the Mountain",
+    "contractor": "Locke",
+    "stealth": "Loud",
+    "bonus": "-"
+}, {
+    "name": "Scarface Mansion",
+    "contractor": "The Butcher",
+    "stealth": "Optional",
+    "bonus": "15%"
+}]
